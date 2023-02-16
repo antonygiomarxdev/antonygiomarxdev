@@ -15,4 +15,4 @@ Tengo 3+ años de experiencia en el desarrollo web, y he trabajado con diferente
 - [CodePen](codepen.io/antonygiomarx)
 
 # Contacto
-Si quieres contactarme, puedes hacerlo a través de mi [correo electrónico](antonygiomarx@gmail.com).
+Si quieres contactarme, puedes hacerlo a través de mi [correo electrónico](antonygiomarx@gmail.com)
