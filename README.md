@@ -2,7 +2,7 @@
 # Quién soy
 Mi nombre es **Antony Giomar** y soy un desarrollador web full stack. Me gusta  aprender cosas nuevas y me encanta el mundo de la tecnología.
 
-Tengo 3+ años de experiencia en el desarrollo web, y he trabajado con diferentes tecnologías como **Node.js, Nest.js, Docker, React, Angular, MongoDB, PostgreSQL etc.**
+Tengo 7+ años de experiencia en el desarrollo web, y he trabajado con diferentes tecnologías como **Node.js, Nest.js, Docker, React, Angular, MongoDB, PostgreSQL etc.**
 
 # Mis habilidades
 - **Frontend**: HTML, CSS, JavaScript, React, Angular, Bootstrap, Material UI, Tailwind CSS, Styled Components, Next.js, Web Authentication
