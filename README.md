@@ -93,8 +93,14 @@ fun_fact  : "I build tech for farmers who feed the world"
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=antonygiomarxdev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&cache_seconds=1800&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonygiomarxdev&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&cache_seconds=1800&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonygiomarxdev&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonygiomarxdev&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antonygiomarxdev&theme=github_dark" />
 
 </div>
 
