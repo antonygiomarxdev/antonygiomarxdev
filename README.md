@@ -1,115 +1,133 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Antony+Giomar+%F0%9F%91%8B;Full-Stack+Developer+%7C+IoT+Engineer;AI+%26+AgriTech+Innovator;Co-founder+%40+Rumai+Labs)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Antony+Giomar+%E2%80%94+Full+Stack+Dev;IoT+%26+LoRaWAN+Engineer;AI+Agent+Builder;Co-founder+%40+Rumai+Labs" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=antonygiomarxdev&label=Profile%20Views&color=00d9ff&style=flat-square" alt="profile views" />
-[![GitHub followers](https://img.shields.io/github/followers/antonygiomarxdev?label=Followers&style=flat-square&color=00d9ff)](https://github.com/antonygiomarxdev)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=antonygiomarxdev&label=Profile+Views&color=58A6FF&style=flat-square" />
+<a href="https://github.com/antonygiomarxdev?tab=followers">
+  <img src="https://img.shields.io/github/followers/antonygiomarxdev?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117" />
+</a>
 
 </div>
 
+<br/>
+
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
-name: Antony Giomar Hernández
-location: Nicaragua 🇳🇮
-role: Full-Stack Developer & Co-founder @ Rumai Labs
+name     : Antony Giomar Hernandez
+location : Nicaragua
+role     : Full-Stack Developer & Co-founder @ Rumai Labs
 experience: 7+ years
+
 focus:
-  - IoT & LoRaWAN Networks
-  - AI Agents & LLM Integration
-  - Agricultural Technology (AgriTech)
-  - Livestock Monitoring Platforms
-currently_building:
-  - Rumai: Smart livestock monitoring with IoT + AI
-  - AI autonomous agents for real-world automation
-fun_fact: I build tech for farmers who feed the world 🌾
+  - IoT & LoRaWAN sensor networks
+  - AI Agents & LLM integration
+  - Agricultural technology (AgriTech)
+  - Livestock monitoring platforms
+
+building:
+  - Rumai   -> Smart livestock monitoring (IoT + AI)
+  - DocDB   -> Document DB engine in Rust
+  - LNS     -> Custom LoRaWAN Network Server
+
+fun_fact : "I build tech for farmers who feed the world"
 ```
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages**
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=CE422B)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**Frontend**
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 
-### IoT & Hardware
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+**Backend**
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)
 
----
+**Databases**
 
-## 📊 GitHub Stats
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-<div align="center">
+**IoT & Embedded**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonygiomarxdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonygiomarxdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-0D1117?style=for-the-badge&logo=semtech&logoColor=58A6FF)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D1117?style=for-the-badge&logo=raspberry-pi&logoColor=A22846)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
 
-</div>
+**DevOps & Cloud**
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=antonygiomarxdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-</div>
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0D1117?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
 ---
 
-## 🌱 What I'm Building
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=antonygiomarxdev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonygiomarxdev&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=antonygiomarxdev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+</div>
+
+---
+
+## What I'm Building
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🐄 **Rumai** | Smart livestock monitoring platform with LoRaWAN IoT sensors + AI | React Native, Node.js, LoRaWAN, AI |
-| 🤖 **AI Agents** | Autonomous agents for real-world task automation | TypeScript, LLMs, n8n |
-| 🦀 **DocDB** | Document-based database engine (MongoDB alternative) | Rust |
-| 📡 **LNS** | Custom LoRaWAN Network Server for rural connectivity | Rust, TypeScript |
+| **Rumai** | Smart livestock monitoring — LoRaWAN + AI | React Native, Node.js, Rust |
+| **AI Agents** | Autonomous agents for real-world automation | TypeScript, LLMs, n8n |
+| **DocDB** | Document database engine (Rust-native) | Rust |
+| **LNS** | Custom LoRaWAN Network Server | Rust, TypeScript |
 
 ---
 
-## 🔗 Connect with Me
+## Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonygiomarx)
-[![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/antonygiomarx)
-[![Website](https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://antonygiomarx.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonygiomarx@gmail.com)
+<a href="https://linkedin.com/in/antonygiomarx">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://twitter.com/antonygiomarx">
+  <img src="https://img.shields.io/badge/X_%2F_Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+</a>
+<a href="https://antonygiomarx.dev">
+  <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" />
+</a>
+<a href="mailto:antonygiomarx@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-*"Building technology for those who feed the world."* 🌾
-
+  <sub><i>"Building technology for those who feed the world."</i></sub>
 </div>
