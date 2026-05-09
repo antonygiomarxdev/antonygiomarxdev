@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Antony+Giomar+%E2%80%94+Full+Stack+Dev;IoT+%26+LoRaWAN+Engineer;AI+Agent+Builder;Co-founder+%40+Rumai+Labs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=580&height=55&lines=Full+Stack+Dev+%7C+IoT+Engineer;Co-founder+%40+Rumai+Labs;Building+with+Rust+%2B+AI;LoRaWAN+%26+AgriTech+Innovator" alt="Typing SVG" />
 
 <br/>
 
@@ -18,9 +18,9 @@
 ## About Me
 
 ```yaml
-name     : Antony Giomar Hernandez
-location : Nicaragua
-role     : Full-Stack Developer & Co-founder @ Rumai Labs
+name      : Antony Giomar Hernandez
+location  : Nicaragua
+role      : Full-Stack Developer & Co-founder @ Rumai Labs
 experience: 7+ years
 
 focus:
@@ -34,7 +34,7 @@ building:
   - DocDB   -> Document DB engine in Rust
   - LNS     -> Custom LoRaWAN Network Server
 
-fun_fact : "I build tech for farmers who feed the world"
+fun_fact  : "I build tech for farmers who feed the world"
 ```
 
 ---
@@ -86,12 +86,16 @@ fun_fact : "I build tech for farmers who feed the world"
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=antonygiomarxdev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonygiomarxdev&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+
+<img src="https://streak-stats.demolab.com?user=antonygiomarxdev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=antonygiomarxdev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=antonygiomarxdev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&cache_seconds=1800&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonygiomarxdev&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&cache_seconds=1800&langs_count=8" />
+
 </div>
 
 ---
@@ -115,7 +119,7 @@ fun_fact : "I build tech for farmers who feed the world"
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 <a href="https://twitter.com/antonygiomarx">
-  <img src="https://img.shields.io/badge/X_%2F_Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/X_Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" />
 </a>
 <a href="https://antonygiomarx.dev">
   <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" />
