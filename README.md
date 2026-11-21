@@ -5,6 +5,8 @@ Product engineer in Managua, Nicaragua. Co-founder of [RUMAI](https://rumai.farm
 [antonygiomarx.dev](https://antonygiomarx.dev) · [X](https://x.com/antonygiomarx) · [LinkedIn](https://www.linkedin.com/in/antonygiomarx)
 
 [![committers.top badge](https://user-badge.committers.top/nicaragua/antonygiomarxdev.svg)](https://user-badge.committers.top/nicaragua/antonygiomarxdev)
+[![committers.top badge](https://user-badge.committers.top/nicaragua_public/antonygiomarxdev.svg)](https://user-badge.committers.top/nicaragua_public/antonygiomarxdev)
+[![committers.top badge](https://user-badge.committers.top/nicaragua_private/antonygiomarxdev.svg)](https://user-badge.committers.top/nicaragua_private/antonygiomarxdev)
 
 #### How I build
 
