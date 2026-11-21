@@ -4,6 +4,8 @@ Product engineer in Managua, Nicaragua. Co-founder of [RUMAI](https://rumai.farm
 
 [antonygiomarx.dev](https://antonygiomarx.dev) · [X](https://x.com/antonygiomarx) · [LinkedIn](https://www.linkedin.com/in/antonygiomarx)
 
+[![committers.top badge](https://user-badge.committers.top/nicaragua/antonygiomarxdev.svg)](https://user-badge.committers.top/nicaragua/antonygiomarxdev)
+
 #### How I build
 
 AI agents write most of the code. I decide what gets built, set the checks (types, lint, tests and mutation testing) and answer for what ships. Agents build in parallel from a shared task list, and a reviewer that never wrote the code reads the result.
