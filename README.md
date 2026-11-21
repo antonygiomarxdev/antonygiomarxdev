@@ -17,9 +17,10 @@ AI agents write most of the code. I decide what gets built, set the checks (type
 These tools came out of that way of working.
 
 - [reapr](https://reapr.dev): Mutation testing for AI agents, and for every pull request.
+- [scriptorium](https://github.com/antonygiomarxdev/scriptorium): A product-first document chain, checked by scripts, that keeps AI coding agents aligned with intent before they write code.
+- [deputy](https://github.com/antonygiomarxdev/deputy): A local MCP server that puts your WhatsApp Business inbox inside your own agent. Nothing goes out without your approval.
 - [puppeteering](https://github.com/antonygiomarxdev/puppeteering): A field guide to running a team of Claude Code agents on real work.
 - [gauntlet](https://github.com/antonygiomarxdev/gauntlet): A code-quality ratchet an agent cannot argue with.
-- [mill](https://github.com/antonygiomarxdev/mill): Turns one AI session into a coordinator that dispatches specialised workers.
 - [maverick](https://github.com/antonygiomarxdev/maverick): Offline-first LoRaWAN gateway and network server in a single binary.
 - [angular-doctor](https://github.com/antonygiomarxdev/angular-doctor): Scans an Angular codebase and gives it a 0 to 100 health score.
 - [synapse](https://github.com/antonygiomarxdev/synapse): Distributed inference for Mixture-of-Experts models on consumer GPUs.
